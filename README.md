@@ -18,7 +18,7 @@ This project presents a dynamic healthcare analytics dashboard built in Power BI
 
 ## 📊 Dashboard Preview
 
-![Riverside General Hospital Dashboard](Riverside%20Hospital.png)
+![Riverside General Hospital Dashboard](Riverside%20Dashboard.png)
 
 ---
 
