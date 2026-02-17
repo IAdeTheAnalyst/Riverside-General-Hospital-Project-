@@ -18,7 +18,7 @@ In this analysis, I aimed to answer the following business questions:
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Riverside General Hospital Dashboard](Riverside%20Dashboard.png)
 
